@@ -1,0 +1,2 @@
+- **api:** `node server.js`
+- **client:** `npm start`
